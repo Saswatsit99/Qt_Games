@@ -1,6 +1,5 @@
 # Qt_Games
-This is a repo which contains games developed in C++, using Qt. 
-In this Repo I have created a snake game,
+I have created a snake game,
 the features are ,
 500X500 pixel game display,
 snake body made of squares of size 50X50,
